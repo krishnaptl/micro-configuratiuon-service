@@ -1,5 +1,4 @@
- 
-eureka:
+ eureka:
   instance:
     prefer-ip-address: true
   client:
